@@ -43,7 +43,7 @@ C SendSMS
 => Le fichier SendSMS.exe est alors créé.
 
 Sinon, l'excutable opérationnel est fourni dans github
-Pour fonctionner, il a besoin des différentes DLL fournies dans le dossier qui proviennent du dossier lib de Harbour et Curl pour windows.
+Pour fonctionner, il a besoin des différentes DLL fournies dans le dossier qui proviennent de Harbour et Curl pour windows.
 
 Usage de l'executable :
 
