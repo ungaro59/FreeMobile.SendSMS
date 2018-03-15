@@ -15,9 +15,7 @@ Pour Compiler vous-même :
 Sous le dossier \HB32, creez un dossier FreeMobile,
 Y Recopier l'ensemble des fichiers github.
 
-Telechargez la derniere version de curl pour windows
-
-https://github.com/vszakats/curl-for-win
+Telechargez la derniere version de curl pour windows (https://github.com/vszakats/curl-for-win)
 
 Sur la page ci-dessous :
 
