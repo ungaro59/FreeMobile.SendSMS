@@ -27,7 +27,7 @@ Dans le .ZIP, dossier lib, extraire les 2 librairies
 libcurl.a et
 libcurl.dll.a 
 
-et les recopier dans le dossier \HB32\lib\win\mingw
+vers le dossier \HB32\lib\win\mingw
 
 Extraire aussi la DLL du dossier bin :
 libcurl.dll
