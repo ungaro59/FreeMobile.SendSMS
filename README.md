@@ -42,4 +42,10 @@ C SendSMS
 => Le fichier SendSMS.exe est alors créé.
 
 Sinon, l'excutable opérationnel est fourni dans github
+
+Usage de l'executable :
+
+SendSMS "Message à transmettre"
+
+Exemple : SendSMS "Ceci est un message d'essai"
 -------------------------------------------------------------
