@@ -30,6 +30,7 @@ libcurl.a et
 libcurl.dll.a 
 
 et les recopier dans le dossier \HB32\lib\win\mingw
+
 Extraire aussi la DLL du dossier bin :
 libcurl.dll
 
