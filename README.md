@@ -2,9 +2,11 @@
 Envoi de SMS à votre compte freemobile depuis un PC
 
 Developpement sous Harbour core V 3 (une evolution open source de Clipper 5) :
+
 https://github.com/harbour/core#how-to-get
 
 Telechargez la derniere version du compilateur Harbour ici (harbour-nightly-win.exe) :
+
 https://sourceforge.net/projects/harbour-project/files/binaries-windows/nightly/
 
 => A installer dans un dossier racine \HB32 (C:\hb32 par exemple)
