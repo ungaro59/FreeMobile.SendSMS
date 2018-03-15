@@ -32,8 +32,8 @@ vers le dossier \HB32\lib\win\mingw
 Extraire aussi la DLL du dossier bin :
 libcurl.dll
 
-vers le dossier \HB32\FreeMobile
-elle sert à l'executable final SendSms.exe
+vers le dossier \HB32\FreeMobile.
+Elle sert à l'executable final SendSms.exe
 
 Pour compiler, dans le dossier FreeMobile, Tapez :
 C SendSMS
