@@ -24,12 +24,15 @@ Sur la page ci-dessous :
 https://bintray.com/vszakats/generic/curl/7.59.0
 
 => Prendre la version du .ZIP suivante : curl-7.59.0-win32-mingw.zip
+
 Dans le .ZIP, dossier lib, extraire les 2 librairies
 libcurl.a et
 libcurl.dll.a 
+
 et les recopier dans le dossier \HB32\lib\win\mingw
 Extraire aussi la DLL du dossier bin :
 libcurl.dll
+
 A recopier dans le dossier \HB32\FreeMobile
 elle sert à l'executable final SendSms.exe
 
