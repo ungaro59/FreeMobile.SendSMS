@@ -16,9 +16,13 @@ Sous le dossier \HB32, creez un dossier FreeMobile,
 Y Recopier l'ensemble des fichiers github.
 
 Telechargez la derniere version de curl pour windows
+
 https://github.com/vszakats/curl-for-win
+
 Sur la page ci-dessous :
+
 https://bintray.com/vszakats/generic/curl/7.59.0
+
 => Prendre la version du .ZIP suivante : curl-7.59.0-win32-mingw.zip
 Dans le .ZIP, dossier lib, extraire les 2 librairies
 libcurl.a et
