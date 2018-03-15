@@ -45,6 +45,8 @@ Pour fonctionner, il a besoin des différentes DLL fournies dans le dossier qui 
 
 Usage de l'executable :
 
+SendSMS sans parametre affiche l'aide.
+
 SendSMS "Message à transmettre"
 
 Exemple : SendSMS "Ceci est un message d'essai"
